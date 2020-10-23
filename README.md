@@ -3,14 +3,14 @@
 Produire une documentation technique et fonctionnelle de l’application « OC Pizza » consistant à
 la mise en place d'un système d'information sur-mesures, déployé dans toutes ses pizzerias.
 
-# Contexte :
+## Contexte :
 
 « OC Pizza » est un jeune groupe de pizzeria en plein essor et spécialisé dans les pizzas livrées ou à emporter. 
 Il compte déjà 5 points de vente et prévoit d’en ouvrir au moins 3 de plus d’ici la fin de l’année. 
 Un des responsables du groupe a pris contact avec vous afin de mettre en place un système informatique, 
 déployé dans toutes ses pizzerias.
 
-#Travail demandé :
+## Travail demandé :
 
 En tant qu’analyste-programmeur, votre rôle est évidemment de développer le système mais également de le documenter. 
 Votre entreprise est engagée dans une démarche qualité pour la réalisation de ses produits.
@@ -20,7 +20,7 @@ Votre entreprise est engagée dans une démarche qualité pour la réalisation d
 * Un dossier d’exploitation : à l’attention de l’équipe technique du client
 * Le procès-verbal de livraison finale
 
-# Livrables attendus :
+## Livrables attendus :
 
 * Le dossier de conception fonctionnelle :
     * Document format PDF respectant la trame de l'entreprise
